@@ -1,2 +1,2 @@
-*-input.txt
-*-input.t.txt
+__pycache__/
+*.txt
